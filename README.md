@@ -1,9 +1,6 @@
 Created by [Paul Adams](https://github.com/PaulAdams4361) and [Jeff Nguyen](https://github.com/7446Nguyen).
 # Time-Series Analysis 
 ## Market Trading Investments Forecasting Strategy with ARIMA, Neural Networks using Multi-Layered Perceptrons, Signal-Plus-Noise, Vector Autoregressive (VAR) and composite ensemble models.
-Here's a refined version of your **README.md** for the [Time-Series-Analysis-ARIMA-and-Neural-Nets](https://github.com/7446Nguyen/Time-Series-Analysis-ARIMA-and-Neural-Nets) repository:
-
----
 
 ## Overview
 
